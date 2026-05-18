@@ -1,0 +1,45 @@
+# =========================
+# Java compiled output
+# =========================
+*.class
+**/bin/
+**/target/
+**/build/
+**/out/
+
+# =========================
+# Eclipse workspace files
+# workspace 전체를 올리지 않기 위한 방어용
+# =========================
+.metadata/
+**/.metadata/
+
+# =========================
+# Eclipse temporary / generated files
+# =========================
+*.tmp
+*.bak
+*.swp
+*.log
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# VS Code / IntelliJ 개인 설정
+# =========================
+.vscode/
+.idea/
+*.iml
+
+# =========================
+# Secrets / 개인 설정
+# =========================
+.env
+*.key
+*.pem
+*.p12
+*.jks

@@ -1,0 +1,3 @@
+HDocent=영석이와의실습.HistoryDocent
+MDocent=영석이와의실습.ModernArtDocent
+SDocent=영석이와의실습.ScienceDocent
